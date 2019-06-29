@@ -1,0 +1,17 @@
+Algoritmo sin_titulo
+	Escribir "escriba su primer numero"
+	Leer numero1
+	Escribir "escriba su segundo numero"
+	Leer numero2
+	Escribir "desea hacer suma(0) o resta(1)?"
+	Leer sr
+	Si sr=0 Entonces
+		sr<-numero1+ numero2
+		Escribir sr
+	SiNo
+		sr<-numero1-numero2
+		Escribir sr
+	
+	Fin Si
+	
+FinAlgoritmo
