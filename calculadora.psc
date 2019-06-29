@@ -14,14 +14,28 @@ Algoritmo sin_titulo
 	Si opcion == 1 Entonces
 		acciones_por_verdadero
 	SiNo
-		Si opcion == 1 Entonces
+		Si opcion == 2 Entonces
 			acciones_por_verdadero
 		SiNo
 			Si opcion == 3 Entonces
-				acciones_por_verdadero
+				escribir "ingrese un numero"
+				
+				
+				leer a
+				escribir "ingrese otro numero"
+				leer b
+				c<-a*b
+				Escribir c
 			SiNo
 				Si opcion == 4 Entonces
-					acciones_por_verdadero
+					escribir "ingrese un numero"
+					
+					
+					leer a
+					escribir "ingrese otro numero"
+					leer b
+					c<-a/b
+					Escribir c
 				SiNo
 					Escribir "Gracias, vuelvas prontos"
 				Fin Si
