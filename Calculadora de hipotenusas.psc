@@ -1,13 +1,13 @@
 Algoritmo Calculadora_de_hipotenusas
 	Escribir "Bienvenido"
 	Escribir "Para poder calcular el valor de la Hipotenusa"
-	Escribir "Por favor, ingrese los primeros valores en X e Y del angulo"
+	Escribir "Por favor, ingrese los primeros valores en X e Y del punto"
 	Escribir "X="
 	Leer X1
 	Escribir "y="
 	Leer y1
 	Escribir "Perfecto ahora"
-	Escribir "Por favor, ingrese los valores del segundo en X e Y del angulo"
+	Escribir "Por favor, ingrese los valores del segundo en X e Y del puto"
 	Escribir "X="
 	Leer X2
 	Escribir "y="
